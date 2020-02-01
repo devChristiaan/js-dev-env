@@ -1,0 +1,11 @@
+root = true
+
+[*]
+editor_renderWhitespace = boundary
+editor_wordWrap = on
+editor_fontSize = 16
+editor_tabSize = 2
+emmet_includeLanguages = {django-html: html}
+
+[*.md]
+trim_trailing_whitespace = true
